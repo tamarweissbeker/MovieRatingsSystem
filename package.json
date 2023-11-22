@@ -1,7 +1,7 @@
 {
   "name": "movies-rating-system",
   "version": "0.1.0",
-  "homepage": "https://tamarweissbeker.github.io/MoviesRatingSystem",
+  "homepage": "http://tamarweissbeker.github.io/MoviesRatingSystem",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
