@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "description": "Cartoon children's movie"
+  },
+  {
+    "id": 2,
+    "description": "Thriller for adults"
+  },
+  {
+    "id": 3,
+    "description": "An imaginary movie"
+  },
+  {
+    "id": 4,
+    "description": "A reality movie"
+  }
+]
